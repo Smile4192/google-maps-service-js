@@ -2238,9 +2238,9 @@ typedarray-to-buffer@^3.1.5:
   dependencies:
     is-typedarray "^1.0.0"
 
-typedoc@^0.23.1:
-  version "0.23.26"
-  resolved "https://registry.yarnpkg.com/typedoc/-/typedoc-0.23.26.tgz#ae082683698bad68757d8fe619242a56d6b5bf36"
+typedoc@^0.24.1:
+  version "0.24.1"
+  resolved "https://registry.yarnpkg.com/typedoc/-/typedoc-0.24.1.tgz#6b793a800400d46ec1b93246d175608626275c0b"
   dependencies:
     lunr "^2.3.9"
     marked "^4.2.12"
